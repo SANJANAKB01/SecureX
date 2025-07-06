@@ -64,13 +64,24 @@ securex/
 # 📸 Screenshots
 ### Main Page
 
+![image](https://github.com/SANCHIKB01/SecureX/blob/main/screenshots/Main%20Page.jpg)
+
 ### Student Page
+
+![image](https://github.com/SANCHIKB01/SecureX/blob/main/screenshots/Student%20Page.jpg)
 
 ### Exam Page
 
+![image](https://github.com/SANCHIKB01/SecureX/blob/main/screenshots/Exam%20Page.jpg)
+
 ### Teacher Page
 
+![image](https://github.com/SANCHIKB01/SecureX/blob/main/screenshots/Teacher%20Page.png)
+
 ### Student Result Data
+
+![image](https://github.com/SANCHIKB01/SecureX/blob/main/screenshots/Student%20Result%20Data.png)
+
 
 
 # 🗣️ Set Your Database Configuration
