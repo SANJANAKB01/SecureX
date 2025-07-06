@@ -1,0 +1,93 @@
+/* Base styles */
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background-color: #edf2f4;
+  color: #2b2d42;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: #2b2d42;
+  color: white;
+}
+
+.navbar a {
+  color: black;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+.invite-section {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.invite-card, .create-ai-card {
+  background-color: #8d99ae;
+  padding: 20px;
+  border-radius: 8px;
+  width: 45%;
+  text-align: center;
+  color: white;
+}
+
+.invite-btn, .create-btn {
+  margin-top: 10px;
+  padding: 10px 20px;
+  border: none;
+  background-color: #2b2d42;
+  color: white;
+  cursor: pointer;
+}
+
+.stat-section {
+  padding: 20px;
+}
+
+.stats-info {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 0;
+}
+
+.chart-placeholder {
+  height: 200px;
+  background-color: #8d99ae;
+  border-radius: 8px;
+  margin-top: 20px;
+}
+
+.leaderboard-section {
+  padding: 20px;
+}
+
+.leaderboard {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.leaderboard th, .leaderboard td {
+  padding: 12px;
+  border: 1px solid #8d99ae;
+  text-align: center;
+}
+
+.leaderboard th {
+  background-color: #2b2d42;
+  color: white;
+}
+
+.leaderboard td {
+  background-color: #edf2f4;
+  color: #2b2d42;
+}
+
+.leaderboard tr:nth-child(even) {
+  background-color: #8d99ae;
+  color: white;
+}
